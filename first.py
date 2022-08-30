@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('MRS.CHANDUPRIYASRINIVAS')
+st.title('MY FIRST APP')
